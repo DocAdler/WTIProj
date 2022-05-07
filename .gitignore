@@ -4,8 +4,7 @@ out/
 !**/src/test/**/out/
 
 WTIProj.iml
-.idea
-.idea/workspace.xml
+/.idea
 
 ### Eclipse ###
 .apt_generated
