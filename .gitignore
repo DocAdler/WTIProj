@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 /WTIProj.iml
+/.idea
 
 ### Eclipse ###
 .apt_generated
