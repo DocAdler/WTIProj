@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WetherIBM866:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WetherIBM866</output-path>
+    <root id="archive" name="WTIProj.jar">
+      <element id="module-output" name="WTIProj" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsoup-1.14.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jsoup-1.14.3" />
+    </root>
+  </artifact>
+</component>
